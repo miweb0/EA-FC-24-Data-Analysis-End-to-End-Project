@@ -6,6 +6,8 @@
 - [**Tableau Dashboard**](https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1): Interactive visualizations
 - [**Project Portfolio**](https://www.datascienceportfol.io/migueltello): Portfolio web
 
+![EA FC 24 Cover](EAFC-24_cover.png)
+
 ## Introduction
 
 Football (soccer) has been a lifelong passion of mine. Since childhood, I've been deeply engaged in the sport, not just as a fan but also as a keen learner of its tactical nuances. This project represents the fusion of that passion with my growing interest in data analysis. Using a database that I grew up with, I aimed to apply modern data analytics techniques that could be adapted for use in real-world football scouting. My goal is to one day work as a Data Analyst in a football scouting team.
