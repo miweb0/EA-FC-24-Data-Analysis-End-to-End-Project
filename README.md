@@ -1,5 +1,11 @@
 # Football Data Analysis: From FIFA 15 to EA FC 24
 
+## Links
+
+- [**Jupyter nbviewer**](https://nbviewer.org/github/miweb0/EAFC_24_Data_Analysis_End-to-End_Project/blob/main/EAFC24_End2End_Project.ipynb): Notebook viewer (GitHub does not read Plotly)
+- [**Tableau Dashboard**](https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1): Interactive visualizations
+- [**Project Portfolio**](https://www.datascienceportfol.io/migueltello): Portfolio web
+
 ## Introduction
 
 Football (soccer) has been a lifelong passion of mine. Since childhood, I've been deeply engaged in the sport, not just as a fan but also as a keen learner of its tactical nuances. This project represents the fusion of that passion with my growing interest in data analysis. Using a database that I grew up with, I aimed to apply modern data analytics techniques that could be adapted for use in real-world football scouting. My goal is to one day work as a Data Analyst in a football scouting team.
