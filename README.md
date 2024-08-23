@@ -40,7 +40,7 @@ In this project, I conducted an end-to-end analysis of football player data from
 
 ## Tableau Dashboard
 
-Explore the interactive dashboard on [Tableau Public](#) (https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1). The dashboard includes various charts from this project and an interactive map where you can choose different metrics to evaluate. All charts are interconnected, enhancing the user experience.
+Explore the interactive dashboard on [Tableau Public](https://public.tableau.com/app/profile/miguel.tello/viz/TableauProject_17241256666710/Dashboard1). The dashboard includes various charts from this project and an interactive map where you can choose different metrics to evaluate. All charts are interconnected, enhancing the user experience.
 
 ## Conclusion
 
